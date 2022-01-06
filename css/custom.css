@@ -8,3 +8,9 @@
   */
 
 /*----------- ADD YOUR CUSTOM CSS STYLES BELOW -----------*/
+
+.skill-icon {
+  padding-bottom: 1.25rem;
+  height: 115px;
+  width: 100px;
+}
