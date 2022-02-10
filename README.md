@@ -16,4 +16,4 @@
 ```
 
 ## Please visit the live site
-https://esthing64.github.io/fullstack_portfolio/
+https://esthing64.github.io/fullstackportfolio/
